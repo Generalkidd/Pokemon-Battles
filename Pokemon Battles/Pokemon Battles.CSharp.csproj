@@ -86,6 +86,7 @@
   <ItemGroup>
     <None Include="Assets\Holograms\006 - Charizard\HELP AND README.txt" />
     <None Include="Assets\Holograms\Blue-Eyes White Dragon\ReadMe.txt" />
+    <None Include="Assets\Holograms\Charmander\004 - Charmander\HELP AND README.txt" />
     <None Include="Assets\Resources\DebugNormals.shader" />
     <None Include="Assets\Resources\Occlusion.shader" />
     <None Include="Assets\Resources\Wireframe.shader" />
