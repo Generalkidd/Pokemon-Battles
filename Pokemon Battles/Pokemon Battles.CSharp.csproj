@@ -76,6 +76,8 @@
     <Compile Include="Assets\Holograms\Support\Underworld\UnderworldReset.cs" />
     <Compile Include="Assets\Holograms\Support\Underworld\UnderworldSound.cs" />
     <Compile Include="Assets\Scripts\BattleCommands.cs" />
+    <Compile Include="Assets\Scripts\CharacterController.cs" />
+    <Compile Include="Assets\Scripts\Enemy.cs" />
     <Compile Include="Assets\Scripts\GazeGestureManager.cs" />
     <Compile Include="Assets\Scripts\SpeechManager.cs" />
     <Compile Include="Assets\Scripts\SphereCommands.cs" />
@@ -85,6 +87,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Holograms\006 - Charizard\HELP AND README.txt" />
+    <None Include="Assets\Holograms\009 - Blastoise\HELP AND README.txt" />
+    <None Include="Assets\Holograms\025 - Pikachu\HELP AND README.txt" />
+    <None Include="Assets\Holograms\150 - Mewtwo\HELP AND README.txt" />
     <None Include="Assets\Holograms\Blue-Eyes White Dragon\ReadMe.txt" />
     <None Include="Assets\Holograms\Charmander\004 - Charmander\HELP AND README.txt" />
     <None Include="Assets\Resources\DebugNormals.shader" />

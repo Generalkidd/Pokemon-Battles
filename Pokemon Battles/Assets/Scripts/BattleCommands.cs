@@ -3,31 +3,34 @@ using System.Collections;
 
 public class BattleCommands : MonoBehaviour
 {
-    Vector3 originalPosition;
+    private Animator animator;
     // Use this for initialization
     void Start ()
     {
-        originalPosition = this.transform.localPosition;
+        animator = this.GetComponent<Animator>();
     }
     
     void OnAttack()
     {
-        OnReset();   
+        animator.SetTrigger("isAttacking");
+        //animator.SetTrigger("isIdle");
     }
 
     void OnDodge()
     {
-        OnReset();
+        Destroy(this.GetComponent<Collider>());
+        animator.SetTrigger("isDodging");
     }
 
     void OnEvade()
     {
-        OnReset();
+        Destroy(this.GetComponent<Collider>());
+        animator.SetTrigger("isEvading");
     }
 
-    void OnReset()
+    void onAvoid()
     {
-        // Put the sphere back into its original local position.
-        this.transform.localPosition = new Vector3(100, 100, 100);
+        Destroy(this.GetComponent<Collider>());
+        animator.SetTrigger("isAvoiding");
     }
 }

@@ -42,6 +42,11 @@ public class SpeechManager : MonoBehaviour
             this.BroadcastMessage("OnEvade");
         });
 
+        keywords.Add("Watch Out", () =>
+        {
+            this.BroadcastMessage("OnAvoid");
+        });
+
         // Tell the KeywordRecognizer about our keywords.
         keywordRecognizer = new KeywordRecognizer(keywords.Keys.ToArray());
 
