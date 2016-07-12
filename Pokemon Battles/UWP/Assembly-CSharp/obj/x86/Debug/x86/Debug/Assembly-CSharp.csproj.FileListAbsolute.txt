@@ -18,3 +18,23 @@ C:\Users\stephenc\Documents\GitHub\Pokemon-Battles\Pokemon Battles\UWP\Assembly-
 C:\Users\stephenc\Documents\GitHub\Pokemon-Battles\Pokemon Battles\UWP\Assembly-CSharp\obj\x86\Debug\x86\Debug\qualifiers.txt
 C:\Users\stephenc\Documents\GitHub\Pokemon-Battles\Pokemon Battles\UWP\Assembly-CSharp\obj\x86\Debug\x86\Debug\qualifiers.txt.intermediate
 C:\Users\stephenc\Documents\GitHub\Pokemon-Battles\Pokemon Battles\UWP\Assembly-CSharp\obj\x86\Debug\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\plasm\Documents\GitHub\Pokemon Battles\Pokemon Battles\UWP\Assembly-CSharp\bin\x86\Debug\Assembly-CSharp.dll
+C:\Users\plasm\Documents\GitHub\Pokemon Battles\Pokemon Battles\UWP\Assembly-CSharp\bin\x86\Debug\Assembly-CSharp.pdb
+C:\Users\plasm\Documents\GitHub\Pokemon Battles\Pokemon Battles\UWP\Assembly-CSharp\bin\x86\Debug\Assembly-CSharp.pri
+C:\Users\plasm\Documents\GitHub\Pokemon Battles\Pokemon Battles\UWP\Assembly-CSharp\bin\x86\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\plasm\Documents\GitHub\Pokemon Battles\Pokemon Battles\UWP\Assembly-CSharp\bin\x86\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\plasm\Documents\GitHub\Pokemon Battles\Pokemon Battles\UWP\Assembly-CSharp\bin\x86\Debug\Assembly-CSharp-firstpass.pri
+C:\Users\plasm\Documents\GitHub\Pokemon Battles\Pokemon Battles\UWP\Assembly-CSharp\obj\x86\Debug\x86\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\plasm\Documents\GitHub\Pokemon Battles\Pokemon Battles\UWP\Assembly-CSharp\obj\x86\Debug\x86\Debug\Assembly-CSharp.dll
+C:\Users\plasm\Documents\GitHub\Pokemon Battles\Pokemon Battles\UWP\Assembly-CSharp\obj\x86\Debug\x86\Debug\Assembly-CSharp.pdb
+C:\Users\plasm\Documents\GitHub\Pokemon Battles\Pokemon Battles\UWP\Assembly-CSharp\obj\x86\Debug\x86\Debug\priconfig.xml
+C:\Users\plasm\Documents\GitHub\Pokemon Battles\Pokemon Battles\UWP\Assembly-CSharp\obj\x86\Debug\x86\Debug\priconfig.xml.intermediate
+C:\Users\plasm\Documents\GitHub\Pokemon Battles\Pokemon Battles\UWP\Assembly-CSharp\obj\x86\Debug\x86\Debug\layout.resfiles
+C:\Users\plasm\Documents\GitHub\Pokemon Battles\Pokemon Battles\UWP\Assembly-CSharp\obj\x86\Debug\x86\Debug\layout.resfiles.intermediate
+C:\Users\plasm\Documents\GitHub\Pokemon Battles\Pokemon Battles\UWP\Assembly-CSharp\obj\x86\Debug\x86\Debug\resources.resfiles
+C:\Users\plasm\Documents\GitHub\Pokemon Battles\Pokemon Battles\UWP\Assembly-CSharp\obj\x86\Debug\x86\Debug\resources.resfiles.intermediate
+C:\Users\plasm\Documents\GitHub\Pokemon Battles\Pokemon Battles\UWP\Assembly-CSharp\obj\x86\Debug\x86\Debug\pri.resfiles
+C:\Users\plasm\Documents\GitHub\Pokemon Battles\Pokemon Battles\UWP\Assembly-CSharp\obj\x86\Debug\x86\Debug\pri.resfiles.intermediate
+C:\Users\plasm\Documents\GitHub\Pokemon Battles\Pokemon Battles\UWP\Assembly-CSharp\obj\x86\Debug\x86\Debug\qualifiers.txt
+C:\Users\plasm\Documents\GitHub\Pokemon Battles\Pokemon Battles\UWP\Assembly-CSharp\obj\x86\Debug\x86\Debug\qualifiers.txt.intermediate
+C:\Users\plasm\Documents\GitHub\Pokemon Battles\Pokemon Battles\UWP\Assembly-CSharp\obj\x86\Debug\x86\Debug\MultipleQualifiersPerDimensionFound.txt
