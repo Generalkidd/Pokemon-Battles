@@ -7,6 +7,8 @@ public class Enemy : MonoBehaviour
     private GameObject _player;
     private Transform _target;
 
+    private bool move = false;
+
     Vector3 originalPosition;
 
     // Use this for initialization
@@ -20,12 +22,20 @@ public class Enemy : MonoBehaviour
 	// Update is called once per frame
 	void Update ()
     {
-        transform.position = Vector3.MoveTowards(transform.position, _target.position, speed * Time.deltaTime);
+        if (move == true)
+        {
+            transform.position = Vector3.MoveTowards(transform.position, _target.position, speed * Time.deltaTime);
+        }
     }
 
     void OnCollisionEnter(Collision col)
     {
-        Debug.Log("Hit");
+        move = false;
         this.transform.localPosition = originalPosition;
+    }
+
+    void OnSelect()
+    {
+        move = true;
     }
 }
